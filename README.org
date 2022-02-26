@@ -1,0 +1,3 @@
+#+TITLE: Digital Personal Libaray
+
+Since many books are read using e-readers, there is no nice way of keeping a library. This is an attempt at making a library, but digitally.

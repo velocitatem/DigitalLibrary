@@ -1,0 +1,18 @@
+.shelf-container {
+
+    border: ridge;
+    border-color: #70543B;
+    border-radius: 5px;
+    border-width: 20px;
+
+    width: 80vw;
+    height: 250px;
+
+
+    margin: auto;
+    padding: 20px;
+
+    display: grid;
+    grid-column-gap: 5px;
+    grid-auto-flow: column;
+}

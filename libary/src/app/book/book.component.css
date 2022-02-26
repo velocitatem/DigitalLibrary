@@ -1,0 +1,15 @@
+.book {
+    background-color: brown;
+    height: 250px;
+    border-radius: 7px;
+    margin: auto;
+}
+
+.rotate {
+    transform: rotate(270deg) translate(-70%, -170%);
+    position: absolute;
+}
+
+.book-title{
+    color: gold;
+}
